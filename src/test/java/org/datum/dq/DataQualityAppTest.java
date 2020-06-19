@@ -1,4 +1,4 @@
-package org.example.dq;
+package org.datum.dq;
 
 
 import org.apache.kafka.common.serialization.Serdes;
