@@ -30,7 +30,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <kafka.version>2.5.0</kafka.version>
-        <jetty.version>9.4.30.v20200611</jetty.version>
+        <jetty.version>9.4.41.v20210516</jetty.version>
         <jersey.version>2.31</jersey.version>
         <jackson.version>2.11.0</jackson.version>
         <slf4j.version>1.7.7</slf4j.version>
